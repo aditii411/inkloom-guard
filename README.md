@@ -3,10 +3,8 @@
 
 **Team Name:** CTRL+ She  
 **Team Members:**
-- **Aditi Choudhary** (Creator Persona / Lead Content Strategist)
-- **Khushi Chouhan** (Brand Manager Persona / Head of Global Brand Governance)
-- **Sanskrati Yadav** (Senior Legal Counsel / Compliance Reviewer)
-- **Shruti Jadon** (Regulatory Compliance Lead / Legal Reviewer)
+- **Aditi Choudhary** 
+- **Khushi Chouhan** 
 
 ---
 
